@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andremaxico
-- 👀 I’m intrested in Front-end dev
-- 🌱 Now, I`m learning JavaScript and his frameworks, Scss
+- 👀 Interested in Front-end development
+- 🌱 Now, I'm working on own projects and learn new front-end technologies
 - 📫 My email: andremaxico321@gmail.com
 
 <!---
